@@ -13,7 +13,7 @@ Easy-Documentation
 
 Easy-Documentation is plugin designed for developers who want to make fast documentation for their customers. 
 It gives you tutorial how to manage content on your website in just few steps.  
-We are trying to satisfy developers in 100% so that’s why we are waiting for your opinion how to update our plugin.
+We are trying to satisfy developers in 100% so that is why we are waiting for your opinion how to update our plugin.
 
 1.Clarity of informations - very clear interface
 
