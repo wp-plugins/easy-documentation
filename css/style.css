@@ -1,0 +1,186 @@
+
+#settings_editor {
+    min-height: 660px;
+}
+.wpg_docs_wrapper{
+    margin: 55px 50px 10px 10px;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    margin-top: 20px;
+    background: #ffffff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    padding: 0px 50px 10px 10px;
+}
+.wpg_docs_wrapper h2{
+    margin-left: 10px;
+    font-size: 25px;
+    line-height: 25px;
+    font-weight: normal;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    color: rgb(68,68,68);
+}
+.wpg_docs_wrapper .settings-header {
+    padding-left: 0;
+}
+.wpg_docs_wrapper .settings-header h2 {
+    margin-left: 0;
+}
+
+h3:first-child {
+    margin-top: 0;
+}
+
+.wpg-row {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.wpg_docs_content {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+.wpg_docs_content h2 {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    margin:auto;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 0px 5px 10px 0px;
+}
+
+.wpg_docs_content li {
+    display:block;
+    margin-bottom: 20px;
+}
+.headline{
+    font-weight: 200;
+    border-left: solid 4px white;
+    font-size:18px;
+    border-radius: 0 0 0 0;
+    cursor: pointer;
+    padding: 0px 10px;
+    transition: all 0.2s linear;
+}
+
+.instructions{
+    display:none;
+}
+
+.instructions p {
+    font-size:17px;
+}
+
+.wpg-manual-img {
+    transition: all 0.3s linear;
+    border: 2px solid #b0b0bf;
+    border-radius: 5px;
+}
+
+.wpg-manual-img:hover {
+    transition: all 0.3s linear;
+    border: 2px solid #9494a8;
+}
+
+.instructions img{
+    max-height: 300px;
+    border: 2px solid #b0b0bf;
+    padding: 5px;
+    max-width: 100%;
+}
+
+.instructions img:hover{
+    border: 2px solid #9494a8;
+    transition: border 0.3s;
+}
+
+.instructions figure{
+    text-align: center;
+}
+
+.selected{
+    text-decoration: underline;
+    color: red;
+    transition: text-decoration 0.3s, color 0.3s;
+}
+#wp-settings_editor-wrap {
+    padding-top: 50px;
+}
+
+.form-table + p {
+    padding-left: 220px;
+}
+
+.docs_manual {
+    padding-left: 222px;
+    text-align: center;
+}
+.docs_manual p {
+    display: block;
+    text-align: left;
+}
+.docs_manual img {
+    max-width:100%;
+    width:75%;
+}
+
+.docs_manual h2 {
+    font-size: 21px;
+    text-align: left;
+    margin: auto;
+}
+
+figcaption {
+    height: 25px;
+}
+
+figcaption span{
+    text-decoration: none;
+    color: rgb(68, 68, 68);;
+    transition: text-decoration 0.3s, color 0.3s;
+}
+
+.warning_box {
+    background-color: #ffffff;
+    padding-top: 10px;
+    /* border: 2px solid red; */
+    height: 87%;
+    width: 85%;
+    margin: 10px 0px 0px 0px;
+    position: absolute;
+    z-index: 2;
+}
+
+
+.warning_box h2 {
+margin: 5px 0px 0px 20px;
+padding-left: 0px;
+}
+
+.warning_box p {
+    padding-left: 20px;
+    font-size:17px;
+}
+
+.warning_box_hide {
+    display: none;
+    transition: display 0.5s;
+}
+
+.wpg_docs_header {
+    padding: 25px 15px 4px 10px;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.button_center {
+    padding-left: 20px;
+}
+
+.step_list {
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.step_list li{
+    display: list-item;
+    margin-bottom: 0;
+}
