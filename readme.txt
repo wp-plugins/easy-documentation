@@ -1,5 +1,5 @@
 === Easy-Documentation ===
-Contributors: marcindusza,bartosznowak,kubadrex
+Contributors: marcindusza,bartosznowak,kubadrex,wordpressgeekscouk
 Tags: easy, documentation, easy-documentation
 Requires at least: 4.1
 Tested up to: 4.1.1
